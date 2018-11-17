@@ -14,4 +14,7 @@ class School
   def grade(tgrade)
     @roster[tgrade]
   end
+
+  def sort
+  end
 end
